@@ -93,7 +93,18 @@ export default function ServicesPage() {
         <section className="services-hero">
           <div className="services-page-container">
             <span className="eyebrow">Our Services</span>
-
+<p
+  style={{
+    fontSize: "14px",
+    fontWeight: 700,
+    letterSpacing: "2px",
+    textTransform: "uppercase",
+    marginBottom: "18px",
+  }}
+  className="gold-text"
+>
+  Digital Marketing Services in Potchefstroom
+</p>
             <h1>
               Everything your business needs
               <br />
