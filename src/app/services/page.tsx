@@ -111,11 +111,13 @@ export default function ServicesPage() {
               <span>to grow online.</span>
             </h1>
 
-            <p>
-              Orvion Digital combines strategy, design, visibility and customer
-              acquisition to help businesses build stronger digital systems and
-              generate more opportunities.
-            </p>
+          <p>
+  Orvion Digital provides professional digital marketing services in
+  Potchefstroom and across South Africa. We combine website design, SEO,
+  lead generation, Google Business Profile optimisation, social media
+  management and digital strategy to help businesses improve their online
+  visibility, attract more customers and generate new opportunities.
+</p>
 
             <div className="hero-actions">
               <a href="/#contact" className="btn-primary">
