@@ -127,20 +127,21 @@ export default function Home() {
                 </span>
               </h1>
 
-              <p
-                style={{
-                  maxWidth: "690px",
-                  fontSize: "clamp(17px, 1.8vw, 21px)",
-                  lineHeight: 1.7,
-                  color: "#a8a8a8",
-                  marginBottom: "34px",
-                }}
-              >
-                Orvion Digital helps businesses get found, attract more
-                enquiries and turn attention into real customers through
-                premium websites, SEO, lead generation, Google Business, social
-                media and intelligent digital strategy.
-              </p>
+             <p
+  style={{
+    maxWidth: "690px",
+    fontSize: "clamp(17px, 1.8vw, 21px)",
+    lineHeight: 1.7,
+    color: "#a8a8a8",
+    marginBottom: "34px",
+  }}
+>
+  Orvion Digital is a digital marketing agency in Potchefstroom helping
+  businesses get found online, attract more enquiries and turn attention into
+  real customers through professional website design, SEO, lead generation,
+  Google Business Profile optimisation, social media management and intelligent
+  digital strategy.
+</p>
 
               <div
                 style={{
