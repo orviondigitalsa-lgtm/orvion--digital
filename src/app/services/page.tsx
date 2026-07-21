@@ -4,9 +4,9 @@ import FloatingTools from "@/components/FloatingTools";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Services | Websites, SEO, Lead Generation & Digital Marketing",
+  title: "Digital Marketing Services Potchefstroom | Orvion Digital",
   description:
-    "Explore Orvion Digital services including website design, SEO, lead generation, Google Business optimisation, social media management and digital growth strategy for South African businesses.",
+    "Explore Orvion Digital's digital marketing services in Potchefstroom, including website design, SEO, lead generation, Google Business Profile optimisation, social media management and digital growth strategy.",
 };
 
 const services = [
