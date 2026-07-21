@@ -1,13 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-export const metadata: Metadata = {
-  title: {
-    default:
-      "Orvion Digital | Websites, SEO & Lead Generation South Africa",
-    template:
-      "%s | Orvion Digital",
-  },
+export const metadata = {
+  title: "Digital Marketing Agency Potchefstroom | Orvion Digital",
+  description:
+    "Orvion Digital is a digital marketing agency in Potchefstroom offering professional website design, SEO, lead generation, Google Business and social media services to help businesses grow.",
+};
 
   description:
     "Orvion Digital helps South African businesses get found, generate more leads and turn online attention into real customers through websites, SEO, Google Business, social media and digital strategy.",
