@@ -98,7 +98,18 @@ export default function Home() {
                 <span>●</span>
                 Digital Growth. Built Differently.
               </div>
-
+<p
+  style={{
+    fontSize: "14px",
+    fontWeight: 700,
+    letterSpacing: "2px",
+    textTransform: "uppercase",
+    marginBottom: "18px",
+  }}
+  className="gold-text"
+>
+  Digital Marketing Agency in Potchefstroom
+</p>
               <h1
                 style={{
                   fontSize: "clamp(54px, 7vw, 98px)",
