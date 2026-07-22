@@ -6,6 +6,7 @@ import Reviews from "@/components/Reviews";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import ScrollDown from "@/components/ScrollDown";
+import FloatingTools from "@/components/FloatingTools";
 
 const services = [
   "Web Design",
@@ -444,6 +445,7 @@ export default function Home() {
           }
         `}</style>
       </main>
+         <FloatingTools />
     </>
   );
 }
